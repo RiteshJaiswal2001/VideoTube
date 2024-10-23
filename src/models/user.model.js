@@ -10,7 +10,7 @@ const userSchema = new Schema(
             unquie: true,
             lowercase: true,
             trim:true,
-            index: true
+            index: true      // for making searchable specially in mongoose.
         },
         email:{
             type: String,
