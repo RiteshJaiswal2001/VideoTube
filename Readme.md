@@ -66,3 +66,7 @@ Dotenv loads environment-specific variables from a `.env` file into `process.env
 ### Bcrypt for Password Security
 
 Bcrypt hashes user passwords before storing them in the database, preventing unauthorized access through brute-force attacks or credential leaks.
+
+
+## Contributing
+This project is open source and it is based on learning, this project is from "Chai-aur-code" youtube channel.
